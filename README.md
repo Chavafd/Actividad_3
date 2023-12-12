@@ -27,9 +27,9 @@ Roadmap
 Requerimientos
 Servidores: Servidor de aplicaciones Node.js, servidor web.
 Paquetes Adicionales: Express.js, Mongoose, etc.
-Versión de Node.js: Especificar versión.
+Versión de Node.js: 17.
 Instalación
-Clonar repositorio: git clone [URL]
+Clonar repositorio: git clone 
 Instalar dependencias: npm install
 Ejecutar pruebas: npm test
 Implementar en producción: Detalles para despliegue local y en la nube (Heroku, AWS, etc.)
@@ -41,8 +41,8 @@ Usuario Final: Guía para usuarios sobre cómo usar la aplicación.
 Usuario Administrador: Manual para administradores del sistema.
 Contribución
 Guía de Contribución:
-Clonar el repositorio: git clone [URL]
-Crear un nuevo branch: git checkout -b [nombre_branch]
+Clonar el repositorio: git clone 
+Crear un nuevo branch: git checkout -b 
 Realizar cambios y commit: git commit -m '[mensaje]'
 Enviar pull request.
 Esperar revisión y merge.
